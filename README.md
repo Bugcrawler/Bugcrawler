@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bugcrawler
 - 👀 I’m interested in coding, science and economy
 - 🌱 I’m currently cultivating my Java skills.
-- 📫 How to reach me dominik.b.broder@gmail.com
+- 📫 How to reach me dominik.ba.broder@gmail.com
 
 <!---
 Bugcrawler/Bugcrawler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
